@@ -1,0 +1,37 @@
+.div1 {
+    background-color: rgb(94, 0, 55);
+    width: 500px;
+    height: 500px;
+}
+
+;
+
+.div2 {
+    background-color: rgb(40, 4, 107);
+    width: 250px;
+    height: 250px;
+}
+
+;
+
+.div3 {
+    background-color: rgb(255, 0, 0);
+    width: 125px;
+    height: 125px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+}
+
+.div4 {
+    width: 50vh;
+    height: 50vh;
+    background-color: rgb(154, 250, 116);
+}
+
+.div5 {
+    width: 35vh;
+    height: 25vh;
+    background-color: rgb(23, 133, 56)
+}

@@ -1,0 +1,39 @@
+.body{
+    background-color: #d3d3d3;
+}
+
+.container{
+    background-color: white;
+    height: 500px;
+    width: 50%;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+}
+
+.filha{
+
+background-color: yellow;
+height: 50px;
+width: 30%;
+}
+
+.filha2{
+
+background-color: rgb(156, 99, 12);
+height: 100px;
+width: 30%;
+}
+
+.filha3{
+
+background-color: rgb(6, 82, 13);
+color: white;
+font-size: 30px;
+height: 100px;
+width: 30%;
+padding: 50px;
+margin-top: 50px;
+margin-left: 50px;
+}
