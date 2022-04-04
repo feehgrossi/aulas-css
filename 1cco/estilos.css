@@ -1,0 +1,145 @@
+body{
+    margin: 0%;
+    background: black;
+    font-family: monospace;
+}
+
+.header{
+    border-bottom: 3px solid aqua;
+    
+
+}
+
+.titulo{
+    color: aqua;
+    width: fit-content;
+}
+
+.nav_bar{
+    list-style: none;
+    color: aliceblue;
+    display: flex;
+    justify-content:space-around;
+    width: 300px;
+    padding: 0%;
+    align-items: center;
+    
+    
+}
+
+.header .nav_bar .aqui{
+    font-weight: 1000;
+    color: blueviolet;
+
+}
+
+.container{
+    
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.banner {
+    background-image: url("imgs/bg-jelly-fish-para-home.png");
+    height: px;
+    color: white;
+    font-weight: 500;
+    display: flex;
+
+}
+
+.banner .container p span{
+    font-weight: 1000;
+}
+
+.banner .container{
+    justify-content: center;
+    font-size: 36px;
+   
+}
+    .banner .container p{
+         width: 10%;
+    }
+
+.social{
+    background-color: white;
+    display: flex;;
+}
+
+.social .container .boxes .box img{
+    width: 200px;
+    
+}
+
+.social .container .boxes{
+    display: flex;
+        
+}
+
+.box{ 
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    align-items: center;
+    margin-left: 120px;
+
+}
+
+.footer{
+    background-color: aqua;
+    height: 150px;
+    color: white;
+    display: flex;
+    font-size: 20px;
+}
+
+.footer .container{
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.banner .container .card{ 
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: beige;
+    height: 500px;
+    width: 400px;
+    flex-direction: column;
+    color: palevioletred;
+    display: flex;
+    align-items: center;
+    border-radius: 16px;
+    justify-content: center;
+    
+}
+
+.card h1{
+    font-size: 20px;
+    border-radius: 4px;
+}
+
+.card h4{
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+button{
+    color: palevioletred;
+    font: 700 20px monospace;
+    border-radius: 4px;
+    margin-top: 16px;
+}
+
+input{
+    height: 30px;
+    border-radius: 4px;
+}
+
